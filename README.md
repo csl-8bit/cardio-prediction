@@ -1,7 +1,7 @@
 # cardiovascular disease prediction
-From: Cheah Siew Lek
-      Ken Ng Chen Kee
-      Lam Xin Yi
+From: Cheah Siew Lek,
+      Ken Ng Chen Kee,
+      Lam Xin Yi,
       
 What are cardiovascular diseases?
 
