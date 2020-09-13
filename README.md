@@ -1,4 +1,8 @@
-# cardio-prediction
+# cardiovascular disease prediction
+From: Cheah Siew Lek
+      Ken Ng Chen Kee
+      Lam Xin Yi
+      
 What are cardiovascular diseases?
 
 Cardiovascular diseases (CVDs) are a group of disorders of the heart and blood vessels and they include:
